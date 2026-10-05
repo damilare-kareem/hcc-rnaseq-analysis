@@ -60,7 +60,7 @@ A pre-specified rule removed every patient with any library below 5 million read
 
 ## A note on KEGG disease pathways
 
-"Systemic lupus erythematosus" and "Alcoholism" appear among up-regulated KEGG pathways. They are driven by histone genes, which these pathways contain and which dividing cells express highly. They reflect proliferation, not lupus or alcohol.
+"Systemic lupus erythematosus" and "Alcoholism" appear among up-regulated KEGG pathways. They are driven almost entirely by histone genes (42 of 42, 42 of 43 and 42 of 43 contributing genes for lupus, alcoholism and neutrophil extracellular trap formation), which dividing cells express highly. They reflect proliferation, not lupus or alcohol.
 
 ## Methods
 
@@ -109,3 +109,4 @@ A pre-specified rule removed every patient with any library below 5 million read
 
 **Kareem Damilare Oreoluwa**, Biochemistry, University of Lagos
 [GitHub](https://github.com/damilare-kareem)
+[LinkedIn](linkedin.com/in/damilare-kareem0)
