@@ -70,6 +70,7 @@ A pre-specified rule removed every patient with any library below 5 million read
 4. **Validation.** Eleven pre-specified literature markers; per-patient paired log2 ratios.
 5. **Sensitivity.** Refit after excluding patients with a library below 5 million reads.
 6. **Enrichment.** clusterProfiler over-representation (GO Biological Process, simplified; KEGG) using all tested genes as background; GSEA of MSigDB Hallmark gene sets on genes ranked by the Wald statistic.
+Software: R 4.6.1, DESeq2 1.52.0, apeglm 1.34.0, clusterProfiler 4.20.0, msigdbr 26.1.1 (full list in results/session_info.txt).
 
 ## Limitations
 
@@ -109,4 +110,4 @@ A pre-specified rule removed every patient with any library below 5 million read
 
 **Kareem Damilare Oreoluwa**, Biochemistry, University of Lagos
 [GitHub](https://github.com/damilare-kareem)
-[LinkedIn](linkedin.com/in/damilare-kareem0)
+[LinkedIn](https://www.linkedin.com/in/damilare-kareem0)
